@@ -1,5 +1,3 @@
-Read Me
-Project Overview
 This database project is designed to manage and store information related to sports teams, players, stadiums, and games. The system tracks details for each team, player, stadium, and game, ensuring that unique identifiers are used for efficient data management and retrieval.
 
 Teams
@@ -31,4 +29,4 @@ Games are organized with unique game IDs. The database stores the following info
 
 
 Testing the Project
-To test the project, follow these steps and business rules to ensure the database runs correctly and data is properly stored and retrieved. By following the business rules, you can verify that the database is functioning as it should be. 
+To test the project, follow these steps and business rules to ensure the database runs correctly and data is properly stored and retrieved. By following the business rules, you can verify that the database is functioning as it should be. Example queries can be found in Project702_0501_04_Readme.docx
